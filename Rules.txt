@@ -1,0 +1,29 @@
+1.This version is limited to one player only.
+
+2.Blackjack may be played with one to eight decks of 52-card decks. This version is limited to one
+
+3.Aces may be counted as 1 or 11 points,and tens and face cards count as ten points.
+
+4.The value of a hand is the sum of the point values of the individual cards.
+	The sum is 21 when:
+	       --There is no ace, and all the cards sums up to 21.
+	       --There is an ace and some 10 value card in first turn. Then there is a BlackJack. This makes either dealer or player to win 2.5 times the bet.
+ 
+5.Player bets using chips. Each chip costs $1.
+
+6.After the players have bet, the dealer will give two cards to each player and two cards to himself. One of the dealer cards is dealt face up. 
+	The facedown card is called the "hole card". 
+
+7.Only two choices are given to the player in this version. 
+	They are limited as compared to original version. These
+             -Stand: Player stands pat with his cards. Once stand is called by the player then, the dealer.
+	     -Hit: Player draws another card (and more if he wishes). 
+	If this card causes the player's total points to exceed 21 (known as "breaking" or "busting") then he loses.
+
+8.After the player has had his turn, the dealer will turn over his hole card.
+
+9.If the dealer goes over 21 points, then the player if didn't already bust will win.
+
+10.If the dealer does not bust, then the higher point total between the player and dealer will win.
+
+11.Except a BlackJack, you win or lose 2 times the bet money.
